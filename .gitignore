@@ -1,0 +1,22 @@
+# Moi truong ao
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Bi mat - tuyet doi khong day len
+.env
+*.key
+credentials.json
+
+# Du lieu - khong phai code
+data/
+logs/
+*.db
+
+# Rac he dieu hanh
+.DS_Store
+Thumbs.db
